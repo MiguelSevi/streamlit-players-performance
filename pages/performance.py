@@ -7,7 +7,7 @@ from math import pi
 
 @st.cache_data
 def load_data():
-    return pd.read_csv('data/df_players_Performance.csv')
+    return pd.read_csv("data/df_players_Performance.csv")
 
 def performance():
     st.title("Performance - Análisis de Rendimiento")
