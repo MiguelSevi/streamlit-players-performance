@@ -40,7 +40,7 @@ def home():
 
     # Mostrar tabla con datos generales
     st.subheader("📋 Datos Generales de los Jugadores")
-    query = "general_data.csv"  # El nombre del archivo CSV en la carpeta 'data'
+    query = "General_Data.csv"  # El nombre del archivo CSV en la carpeta 'data'
     data = get_data(query)
 
     # Verificar si data no es None antes de continuar
