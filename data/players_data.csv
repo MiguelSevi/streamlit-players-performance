@@ -1,0 +1,61 @@
+Team_ID,Player_ID,Team,Team_Image,Profile_Main_Characteristic,Competition,Competition_ID,Season,Matches_Played,Minutes,Start_Line_UP_Percent
+1,1,Leicester,https://capology-e6a3.kxcdn.com/static/images/logos/uk/leicester.svg,Changed Leg Right Winger ,Championship,1,2023-2024,41,2805,77.0
+2,2,B.Leverkusen,https://capology-e6a3.kxcdn.com/static/images/logos/de/bayer-leverkusen.svg,Inside Left Winger ,Bundesliga,2,2023-2024,32,815,28.0
+3,3,Crystal Palace,https://capology-e6a3.kxcdn.com/static/images/logos/uk/crystal-palace.svg,Defensive Technical Midfielder,Premier League,3,2023-2024,11,865,91.0
+4,4,Fulham,https://capology-e6a3.kxcdn.com/static/images/logos/uk/fulham.svg,Attacking Left Midfielder,Premier League,3,2023-2024,20,1534,85.0
+5,5,River Plate,https://capology-e6a3.kxcdn.com/static/images/logos/ar/river-plate.svg,Finisher Centre Foward,Primera Division Arg.,4,2023-2024,8,152,10.0
+6,6,Genoa,https://capology-e6a3.kxcdn.com/static/images/logos/it/genoa.svg,Technical Left CenterBack,Serie A,5,2023-2024,7,240,43.0
+7,7,Cercle Brugge,https://capology-e6a3.kxcdn.com/static/images/logos/be/cercle-brugges.svg,Combinative Win Foward,Belgium Pro League,6,2023-2024,35,1919,66.0
+8,8,FC Porto,https://capology-e6a3.kxcdn.com/static/images/logos/pt/porto.svg,Technical Defensive Midfielder,Primeira Liga ,7,2023-2024,40,3048,92.0
+9,9,Las Palmas,https://capology-e6a3.kxcdn.com/static/images/logos/es/las-palmas.svg,Dribbler Attacking Midfielder,La Liga,8,2023-2024,26,1477,65.0
+10,10,Manchester United,https://capology-e6a3.kxcdn.com/static/images/logos/uk/manchester-united.svg,Changed Leg Left Winger,Premier League,3,2023-2024,45,3102,80.0
+11,11,Portimonense,https://capology-e6a3.kxcdn.com/static/images/logos/pt/portimonense.svg,Technical CenterBack ,Primeira Liga ,7,2023-2024,29,2535,100.0
+12,12,Villarreal,https://capology-e6a3.kxcdn.com/static/images/logos/es/villarreal.svg,Dribbler Attacking Midfielder,La Liga,8,2023-2024,41,2774,85.0
+13,13,AC Milan,https://capology-e6a3.kxcdn.com/static/images/logos/it/ac-milan.svg,Offensive Winger Back,Serie A,5,2023-2024,5,2027,40.0
+14,14,Bournemouth,https://capology-e6a3.kxcdn.com/static/images/logos/uk/bournemouth.svg,Playmaker Centre Midfielder,Premier League,3,2023-2024,24,1254,58.0
+15,15,Benfica,https://capology-e6a3.kxcdn.com/static/images/logos/pt/benfica.svg,1vs1 Especialist Goalkeeper,Primeira Liga ,7,2023-2024,46,4140,100.0
+16,16,Nordsjaelland,https://capology-e6a3.kxcdn.com/static/images/logos/dk/nordsjaelland.svg,Changed Leg Left Winger,Superliga Denmark,9,2023-2024,33,2218,79.0
+17,17,Real Salt Lake,https://capology-e6a3.kxcdn.com/static/images/logos/us/real-salt-lake.svg,Outside Right Winger,MLS,10,2023-2024,9,658,89.0
+18,18,Strasbourg,https://capology-e6a3.kxcdn.com/static/images/logos/fr/strasbourg.svg,Technical Defensive Midfielder,Ligue 1,11,2023-2024,8,573,75.0
+19,20,PEC Zwolle,https://capology-e6a3.kxcdn.com/static/images/logos/ne/pec-zwolle.svg,Offensive Winger Back,Eredivisie,12,2023-2024,29,2272,93.0
+20,21,Nottingham Forest,https://capology-e6a3.kxcdn.com/static/images/logos/uk/nottingham-forest.svg,Changed Leg Left Winger,Premier League,3,2023-2024,36,2501,72.0
+21,22,Newcastle,https://capology-e6a3.kxcdn.com/static/images/logos/uk/newcastle.svg,Changed Leg Left Winger,Premier League,3,2023-2024,45,3573,93.0
+22,23,Feyenoord,https://capology-e6a3.kxcdn.com/static/images/logos/ne/feyenoord.svg,Playmaker Centre Midfielder,Eredivisie,12,2023-2024,13,276,24.0
+23,24,Club Brugge,https://capology-e6a3.kxcdn.com/static/images/logos/be/club-brugges.svg,Changed Leg Left Winger,Belgium Pro League,6,2023-2024,41,2077,51.0
+24,25,Midtjylland,https://capology-e6a3.kxcdn.com/static/images/logos/dk/midtjylland.svg,Changed Leg Left Winger,Superliga Denmark,9,2023-2024,29,1913,82.0
+25,26,KAA Gent,https://capology-e6a3.kxcdn.com/static/images/logos/be/gent.svg,Offensive Right Winger Back,Belgium Pro League,6,2023-2024,37,2894,92.0
+26,27,Leeds United,https://capology-e6a3.kxcdn.com/static/images/logos/uk/leeds.svg,Physical Right Centre Midfielder,Championship,1,2023-2024,48,3940,92.0
+27,28,Greuther Fürth,https://capology-e6a3.kxcdn.com/static/images/logos/de/furth.svg,Dribbler Attacking Midfielder,Bundesliga 2,13,2023-2024,32,2074,75.0
+28,29,Le Havre,https://capology-e6a3.kxcdn.com/static/images/logos/fr/le-havre.svg,Technical Right CenterBack,Ligue 1,11,2023-2024,29,2600,100.0
+29,30,Atletico Madrid,https://capology-e6a3.kxcdn.com/static/images/logos/es/atletico-madrid.svg,Physical Centre Midfielder,La Liga,8,2023-2024,3,84,33.0
+30,31,Plymouth Argyle,https://capology-e6a3.kxcdn.com/static/images/logos/uk/plymouth.svg,Technical Right CenterBack,Championship,1,2023-2024,19,1473,89.0
+31,32,Lorient,https://capology-e6a3.kxcdn.com/static/images/logos/fr/lorient.svg,Playmaker Centre Midfielder,Ligue 1,11,2023-2024,15,919,80.0
+32,33,Lille ,https://capology-e6a3.kxcdn.com/static/images/logos/fr/lille.svg,Physical Centre Midfielder,Ligue 1,11,2023-2024,18,694,39.0
+33,34,Real Madrid,https://capology-e6a3.kxcdn.com/static/images/logos/es/real-madrid.svg,Dribbler Attacking Midfielder,La Liga,8,2023-2024,8,166,25.0
+34,35,Brighton & Hove Albion,https://capology-e6a3.kxcdn.com/static/images/logos/uk/brighton.svg,Aerial Play & 1Vs1 Especialist,Premier League,3,2023-2024,27,2430,100.0
+35,36,Nantes,https://cdn.resfu.com/img_data/escudos/medium/6805.jpg?size=120x&lossy=1,Technical Left CenterBack,Ligue 1,11,2023-2024,3,240,100.0
+36,37,RB Leipzig,https://capology-e6a3.kxcdn.com/static/images/logos/de/leipzig.svg,Box Centre Forward,Bundesliga,2,2023-2024,42,2057,60.0
+37,38,Ajax,https://capology-e6a3.kxcdn.com/static/images/logos/ne/ajax.svg,Defensive Technical Midfielder,Eredivisie,12,2023-2024,37,2377,70.0
+38,39,Genk,https://capology-e6a3.kxcdn.com/static/images/logos/be/genk.svg,Technical Attacking Midfielder,Belgium Pro League,6,2023-2024,50,3964,90.0
+39,41,Liverpool,https://capology-e6a3.kxcdn.com/static/images/logos/uk/liverpool.svg,Attacking Left Midfielder,Premier League,3,2023-2024,12,1003,92.0
+40,42,PSG,https://capology-e6a3.kxcdn.com/static/images/logos/fr/psg.svg,Changed Leg Left Winger ,Ligue 1,11,2023-2024,39,2098,68.0
+41,43,Stade Brestois,https://capology-e6a3.kxcdn.com/static/images/logos/fr/brest.svg,Defensive Left Back,Ligue 1,11,2023-2024,35,3141,100.0
+42,44,Maninz 05,https://capology-e6a3.kxcdn.com/static/images/logos/de/mainz.svg,Changed Leg Right Winger ,Bundesliga,2,2023-2024,29,1740,70.0
+43,45,El Paso Locomotive,https://cdn.resfu.com/img_data/escudos/medium/119277.jpg?size=120x&lossy=1,Positional CenterBack,MLS,10,2023-2024,7,437,86.0
+44,47,Chicago Fire,https://cdn.resfu.com/img_data/escudos/medium/758.jpg?size=120x&lossy=1,Attacking Left Midfielder,MLS,10,2023-2024,15,1034,80.0
+45,48,Arsenal,https://capology-e6a3.kxcdn.com/static/images/logos/uk/arsenal.svg,Changed Leg Right Winger ,Premier League,3,2023-2024,47,3836,98.0
+46,49,Chivas,https://capology-e6a3.kxcdn.com/static/images/logos/mx/guadalajara.svg,Changed Leg Left Winger ,LMX,14,2023-2024,22,997,50.0
+47,50,Nürnberg,https://capology-e6a3.kxcdn.com/static/images/logos/de/nurnberg.svg,Technical Attacking Midfielder,Bundesliga 2,13,2023-2024,32,2186,85.0
+48,51,Juventus,https://capology-e6a3.kxcdn.com/static/images/logos/it/juventus.svg,Box To Box Midfielder,Serie A,5,2023-2024,12,376,25.0
+49,54,Philadelphia Union II,https://capology-e6a3.kxcdn.com/static/images/logos/us/philadelphia-union.svg,Technical CentreMidfielder,MLS,10,2023-2024,2,57,10.0
+50,55,Palermo FC,https://capology-e6a3.kxcdn.com/static/images/logos/it/palermo.svg,Changed Leg Left Winger ,Serie A,5,2023-2024,12,221,25.0
+51,56,Atalanta,https://capology-e6a3.kxcdn.com/static/images/logos/it/atalanta.svg,Technical Attacking Midfielder,Serie A,5,2023-2024,50,2939,75.0
+52,57,Arsenal U-18,https://capology-e6a3.kxcdn.com/static/images/logos/uk/arsenal.svg, Combinative Centre Foward,Premier League U18,15,2023-2024,21,1633,86.0
+53,58,Fortuna Düsseldorf,https://capology-e6a3.kxcdn.com/static/images/logos/de/dusseldorf.svg,Changed Leg Left Winger,Bundesliga 2,13,2023-2024,37,2944,92.0
+54,59,River Plate,https://capology-e6a3.kxcdn.com/static/images/logos/ar/river-plate.svg,Technical Attacking Midfielder,Liga Profesional Argentina,16,2023-2024,28,1533,71.0
+55,60,Chelsea,https://capology-e6a3.kxcdn.com/static/images/logos/uk/chelsea.svg,Technical Attacking Midfielder,Premier League,3,2023-2024,45,3583,89.0
+56,62,Excelsior,https://capology-e6a3.kxcdn.com/static/images/logos/ne/excelsior.svg,Changed Leg Left Winger ,Eredivisie,12,2023-2024,33,2415,93.0
+57,63,Valencia,https://capology-e6a3.kxcdn.com/static/images/logos/es/valencia.svg,Positional CenterBack,La Liga,8,2023-2024,38,3220,92.0
+58,64,Leeds United,https://capology-e6a3.kxcdn.com/static/images/logos/uk/leeds.svg,Changed Leg Left Winger ,Premier League,3,2023-2024,46,3627,91.0
+59,65,Roma,https://capology-e6a3.kxcdn.com/static/images/logos/it/roma.svg,Technical CenterBack ,Serie A,5,2023-2024,14,583,36.0
+60,66,Monza,https://capology-e6a3.kxcdn.com/static/images/logos/it/monza.svg,Attacking Left Midfielder,Serie A,5,2023-2024,11,326,20.0
